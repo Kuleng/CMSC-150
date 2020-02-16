@@ -1,0 +1,7 @@
+$unknowns
+ [1]   4.2228137   2.8203450  -1.5246038   2.2333605  -7.2204986  -4.4512719   0.7224751  -1.3005388  -5.9800983
+[10]  -1.8225960  -1.8225960  -5.7593302   0.1706126  18.3311129   6.2581324   5.6465863  16.7567314 -17.7577499
+[19]   4.9677972   8.4724728 -10.9401697 -10.6743940   7.6241522 -13.2826575  19.6483155 -16.4861878 -15.1595866
+
+RUST's specifications specified that the beam can withstand compressive forces until 17 tons and extensive forces until 20 tons. Since the compressive force on beam 18 exceeds RUST's proper specifications, it was MESS that is at fault for the fatigues encountered by the Unduly Gigantic Hanger. The company should be responsible for the proper application of the strength of materials given by the manufacturer, specifically the balance between the beams and its joints.
+

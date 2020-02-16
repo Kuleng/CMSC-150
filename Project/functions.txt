@@ -1,0 +1,24 @@
+
+<supply restraints>
+10a + 8b + 6c + 5d + 4e + s1<= 310 <Denver>
+6f + 5g + 4h + 3i + 6j + s2 <= 260 <Phoenix>
+3k + 4l + 5m + 5n + 9o + s3 <=280 <Dallas>
+
+<demand restraints>
+a + f + k >= 180 <Sacramento>
+b + g + l >= 80 <Salt lake>
+c + h + m >= 200 <Albuquerque>
+d + i + n >= 160 <Chicago>
+e + j + o >= 220 <New York>
+
+<Cost>
+10a+ 6f + 3k > 0
+8b + 5g + 4l > 0
+6c + 4h + 5m > 0
+5d+ 3i + 5n > 0
+4e + 6j + 9o > 0
+
+
+
+Objective function:
+z = 10a + 8b + 6c + 5d + 4e + 6f + 5g + 4h + 3i + 6j + 3k + 4l + 5m + 5n + 9o
